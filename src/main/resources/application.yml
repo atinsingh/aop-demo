@@ -1,2 +1,3 @@
 guests:
     names: Pooja,Kiran,Jegan
+nameMap: { Pooja: 23, Kiran: 21 }
